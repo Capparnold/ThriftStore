@@ -13,6 +13,8 @@
     "@clerk/clerk-react": "^5.51.0",
     "@tailwindcss/vite": "^4.1.14",
     "autoprefixer": "^10.4.21",
+    "emailjs-com": "^3.2.0",
+    "lucide-react": "^0.546.0",
     "postcss": "^8.5.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",

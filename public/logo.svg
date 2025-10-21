@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="80" viewBox="0 0 300 80">
+  <!-- Background -->
+  <rect width="300" height="80" fill="white"></rect>
+
+  <!-- Brand Name -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Poppins, Arial, sans-serif" font-size="40" font-weight="bold">
+    <tspan fill="#0A2E5D">Thrift</tspan><tspan fill="#FFB88C">Store</tspan>
+  </text>
+
+  <!-- Optional Icon (shopping bag in black) -->
+  <path d="M230 25 h25 v40 h-25 z M235 25 v-5 a5 5 0 0 1 10 0 v5" stroke="black" fill="none" stroke-width="2"></path>
+</svg>

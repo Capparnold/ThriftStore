@@ -25,7 +25,7 @@ function Footer() {
           <h3 className="text-lg font-semibold text-white mb-3">Contact Us</h3>
           <ul className="space-y-2 text-sm">
             <li>Email: support@thriftstore.com</li>
-            <li>Phone: +254 700 123 456</li>
+            <li>Phone: +254 700 881 596</li>
             <li>Location: Nairobi, Kenya</li>
           </ul>
         </div>

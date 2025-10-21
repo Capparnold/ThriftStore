@@ -9,6 +9,8 @@ import Cart from './pages/Cart'
 import User from './pages/User'
 import Checkout from './pages/Checkout'
 import ProtectedRoute from './components/ProtectedRoute'
+import HeroSection from './components/HeroSection'
+import ImageCarousel from './components/ImageCarousel'
 
 
 
@@ -17,9 +19,10 @@ function App() {
   return (
     <>
    
-    <div className="flex flex-col min-h-screen bg-gray-50 text-gray-800">
-      
+    <div className="flex flex-col min-h-screen bg-blue-950">
+
     <Navbar />
+   
 
     
 {/*Page Content */}
@@ -51,12 +54,14 @@ function App() {
   />
   </Routes>
 
- 
+  
 </main>
     
 
+
     <Footer />
     </div>
+  
    
     
     </>
